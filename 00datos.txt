@@ -1,0 +1,6 @@
+PATRICIA BELÉN FERNÁNDEZ SASTRE
+ANDRÉS HERENCIA LÓPEZ-MENCHERO
+
+La aplicacion ha sido probada en Android, iOS y Web.
+
+Se ha implementado Quiz y Navegación, con mejora de botón de reset.
